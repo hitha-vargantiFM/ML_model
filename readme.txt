@@ -1,3 +1,3 @@
-I am currently building a model to determine GPU bottlenecks 
+i am currently building a model to determine GPU bottlenecks 
 
-Whatever I have built so far is in this repository
+whatever I have built so far is in this repository
